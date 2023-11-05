@@ -1,4 +1,4 @@
-# 2. Flipkart Sales Dashboard
+# Flipkart Sales Dashboard
 
 ## Preview
 <p float="middle">
